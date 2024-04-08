@@ -1,0 +1,5 @@
+# For develope quickly 
+-Install Node
+-npm install -g http-server
+#Open the file in target project
+#http-server 
